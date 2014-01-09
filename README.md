@@ -7,7 +7,7 @@ on curl and http requests.
 
 Add this line to your application's Gemfile:
 
-    gem 'person-add'
+    gem 'person-add', :git => 'git@github.com:pipo1991/person_add_highrise.git'
 
 And then execute:
 
