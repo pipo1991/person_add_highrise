@@ -7,7 +7,7 @@ on highrise gem.
 
 Add this line to your application's Gemfile:
 
-    gem 'person_add'
+    gem 'person-add'
 
 And then execute:
 
@@ -15,7 +15,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install person_add
+    $ gem install person-add
 
 ## Usage
 
