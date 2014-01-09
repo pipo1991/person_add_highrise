@@ -21,14 +21,10 @@ Or install it yourself as:
 
 There are mainly two functions in the moldule PersonAdd
 
-1.init
-
-This method establish the connection between the Highrise and your app
-with input (site URl,site auth token) respectively.
-
-2.add
+1..add
 This method actually add the person with its details with input
-(first name,last name,email, company, job_title, phone, website) respectively.
+(user,apitoken,first name,last name,email, company, job_title, phone, website) respectively.
+** User is found in the url 'https://(user).highrisehq.com/'
 
 ## Contributing
 
