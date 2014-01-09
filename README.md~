@@ -1,7 +1,6 @@
 # PersonAdd
 
-This is gem act as an interface for highrise CRM based
-on highrise gem.
+TODO: Write a gem description
 
 ## Installation
 
@@ -19,16 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-There are mainly two functions in the moldule PersonAdd
-
-1.init
-
-This method establish the connection between the Highrise and your app
-with input (site URl,site auth token) respectively.
-
-2.add
-This method actually add the person with its details with input
-(first name,last name,email, company, job_title, phone, website) respectively.
+TODO: Write usage instructions here
 
 ## Contributing
 

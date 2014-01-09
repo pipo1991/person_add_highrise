@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'person_add/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "person-add"
+  spec.name          = "highrise-post"
   spec.version       = PersonAdd::VERSION
   spec.authors       = ["Patrick Ragi"]
   spec.email         = ["patricholamaro@yahoo.com"]

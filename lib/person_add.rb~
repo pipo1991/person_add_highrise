@@ -3,7 +3,7 @@ require "curl"
 
 module PersonAdd
 	 class Person 
-		def self.add(user,api,name,last,email, company, job_title, phone, website)
+		def self.add(user,api,id,name,last,email, company, job_title, phone, website)
 		  	 val='<person>'
 			 val= val+'<first-name>'+name.to_s+'</first-name>'
 		      	 val= val+'<last-name>'+last.to_s+'</last-name>'
