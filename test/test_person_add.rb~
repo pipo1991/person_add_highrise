@@ -1,8 +1,0 @@
-require 'test/unit'
-require 'person_add'
-
-class PersonAddTest < Test::Unit::TestCase
-	def test_add
-	    assert_not_nil :person
-	end
-end
