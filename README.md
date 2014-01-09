@@ -1,7 +1,7 @@
 # PersonAdd
 
 This is gem act as an interface for highrise CRM based
-on highrise gem.
+on curl and http requests.
 
 ## Installation
 
